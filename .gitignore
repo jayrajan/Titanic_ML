@@ -3,7 +3,10 @@
 
 # Jupyter Notebook
 .ipynb_checkpoints
+<<<<<<< HEAD
 
+=======
+>>>>>>> wip
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -22,3 +25,6 @@ target/
 # IPython
 profile_default/
 ipython_config.py
+
+#CSV files
+Pclass_submission.csv
